@@ -1,0 +1,3 @@
+/home/cherry/pico/pico-repos/weather-station/build/pioasm/CMakeFiles/pioasm.dir
+/home/cherry/pico/pico-repos/weather-station/build/pioasm/CMakeFiles/edit_cache.dir
+/home/cherry/pico/pico-repos/weather-station/build/pioasm/CMakeFiles/rebuild_cache.dir
